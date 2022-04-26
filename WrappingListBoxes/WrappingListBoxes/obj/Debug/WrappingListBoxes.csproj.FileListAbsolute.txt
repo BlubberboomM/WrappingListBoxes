@@ -1,0 +1,15 @@
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\WrappingListBoxes\WrappingListBoxes\bin\Debug\WrappingListBoxes.exe.config
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\WrappingListBoxes\WrappingListBoxes\bin\Debug\WrappingListBoxes.exe
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\WrappingListBoxes\WrappingListBoxes\bin\Debug\WrappingListBoxes.pdb
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\WrappingListBoxes\WrappingListBoxes\obj\Debug\WrappingListBoxes.csprojAssemblyReference.cache
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\WrappingListBoxes\WrappingListBoxes\obj\Debug\MainWindow.g.cs
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\WrappingListBoxes\WrappingListBoxes\obj\Debug\App.g.cs
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\WrappingListBoxes\WrappingListBoxes\obj\Debug\WrappingListBoxes_MarkupCompile.cache
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\WrappingListBoxes\WrappingListBoxes\obj\Debug\WrappingListBoxes_MarkupCompile.lref
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\WrappingListBoxes\WrappingListBoxes\obj\Debug\MainWindow.baml
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\WrappingListBoxes\WrappingListBoxes\obj\Debug\WrappingListBoxes.g.resources
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\WrappingListBoxes\WrappingListBoxes\obj\Debug\WrappingListBoxes.Properties.Resources.resources
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\WrappingListBoxes\WrappingListBoxes\obj\Debug\WrappingListBoxes.csproj.GenerateResource.cache
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\WrappingListBoxes\WrappingListBoxes\obj\Debug\WrappingListBoxes.csproj.CoreCompileInputs.cache
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\WrappingListBoxes\WrappingListBoxes\obj\Debug\WrappingListBoxes.exe
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\WrappingListBoxes\WrappingListBoxes\obj\Debug\WrappingListBoxes.pdb
